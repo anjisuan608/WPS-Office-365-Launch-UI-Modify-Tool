@@ -1,6 +1,6 @@
 @echo off
 color 02
-title Modifier
+title WPS-Office-365-Launch-UI-Modify-Tool
 
 @REM 检查是否以管理员身份运行批处理
 net session >nul 2>&1
