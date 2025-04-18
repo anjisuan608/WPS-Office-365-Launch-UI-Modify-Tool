@@ -1,0 +1,4 @@
+*.bat binary
+*.bat working-tree-encoding=GB18030
+*.cmd binary
+*.cmd working-tree-encoding=GB18030
